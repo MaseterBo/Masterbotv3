@@ -43,7 +43,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2
+$ git clone https://github.com/Masterbo/Ravanan 
 $ cd Amalser_v2
 $ npm i
 $ node julie.js
